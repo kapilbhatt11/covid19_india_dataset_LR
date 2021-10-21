@@ -1,4 +1,4 @@
-# covid19-_india_dataset
+# covid19_india_dataset_LR
 covid19 _india_dataset
 
 importing pandas,numpy,matplotlib and seaborn and perfoming some exploratory data analysis.
